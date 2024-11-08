@@ -6,6 +6,8 @@
 
 Este projeto é uma solução para o desafio de backend proposto pela PicPay. O objetivo é criar uma API RESTful que permita realizar transferências entre contas.
 
+Link do desafio: https://github.com/PicPay/picpay-desafio-backend
+
 ### Tecnologias utilizadas 
 
 
@@ -24,6 +26,7 @@ A proposta de melhoria para este projeto é a implementação de uma arquitetura
 
 - **Cadastro de usuário**
 - **Depósito**
+- **Transferências**
 - **Validar dados de usuário e transferências**
 - **Tratamento de erros e exceções**
 - **Autorizar transferência**
